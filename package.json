@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/jennrogala/nucampsite.git"
   },
-  "author": "",
+  "author": "Jennifer Rogala",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jennrogala/nucampsite/issues"
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/jennrogala/nucampsite#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }

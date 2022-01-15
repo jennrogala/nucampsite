@@ -1,0 +1,24 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "NuCamp Site",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennrogala/nucampsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennrogala/nucampsite/issues"
+  },
+  "homepage": "https://github.com/jennrogala/nucampsite#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
